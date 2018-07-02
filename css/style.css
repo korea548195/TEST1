@@ -1,2 +1,6 @@
-@import "friends.css";
+@import url("https://fonts.googleapis.com/css?family=Jua");
 @import "reset.css";
+@import "glovar.css";
+@import "header.css";
+@import "nav.css";
+@import "friends.css";
